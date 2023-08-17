@@ -1,2 +1,26 @@
 
 /* Your CSS Code here. */
+body{
+	color:white;
+}
+div{
+	height:500px;
+	width:500px;
+	background:#6118b5;
+	
+}
+ h2{
+	text-align:center;
+}
+a{
+	text-decoration:none;
+	color:white;
+}
+p{
+	padding-left:15px
+}
+img{
+	height:200px;
+	width:200px;
+	padding-left:20px;
+}
